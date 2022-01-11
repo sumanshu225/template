@@ -1,0 +1,12 @@
+/* Navigation bar  */
+
+nav{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#navigation-menu{
+    flex-basis: 2rem;
+    margin: 1rem;
+}
